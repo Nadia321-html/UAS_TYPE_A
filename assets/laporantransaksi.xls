@@ -1,0 +1,42 @@
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Tanggal Transaksi</th>
+        <th>Operator</th>
+        <th>Total Transaksi</th>
+    </tr>
+    <tr>
+        <td width='10'>1</td>
+        <td width='160'>2023-12-19</td>
+        <td>Admin Konter</td>
+        <td>3.000.000</td>
+    </tr>
+    <tr>
+        <td width='10'>2</td>
+        <td width='160'>2024-01-02</td>
+        <td>Admin Konter</td>
+        <td>13.000.000</td>
+    </tr>
+    <tr>
+        <td width='10'>3</td>
+        <td width='160'>2024-01-02</td>
+        <td>Admin Konter</td>
+        <td>13.000.000</td>
+    </tr>
+    <tr>
+        <td width='10'>4</td>
+        <td width='160'>2024-01-02</td>
+        <td>Admin Konter</td>
+        <td>13.000.000</td>
+    </tr>
+    <tr>
+        <td width='10'>6</td>
+        <td width='160'>2024-01-06</td>
+        <td>Admin Konter</td>
+        <td>3.020.000</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Total</strong></td>
+        <td><strong>45.100.000</strong></td>
+    </tr>
+</table>

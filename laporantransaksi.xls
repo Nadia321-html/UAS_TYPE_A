@@ -1,0 +1,17 @@
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Tanggal Transaksi</th>
+        <th>Operator</th>
+        <th>Total Transaksi</th>
+    </tr>
+    <tr>
+        <td width='10'>1</td>
+        <td width='160'>2024-01-06</td>
+        <td>admin</td>
+        <td>80000</td>
+        </tr>    <tr>
+        <td colspan="3">Total</td>
+        <td>80000</td>
+    </tr>
+</table>
